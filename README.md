@@ -1,4 +1,4 @@
-# Heart_Disease-Prediction-Project
+# Cardiovascular_Disease-Prediction-Project
 
 **Context**
 
